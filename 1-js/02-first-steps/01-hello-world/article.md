@@ -5,7 +5,7 @@
 लेकिन, हमें अपनी स्क्रिप्ट को चलाने के लिए काम करने का environment चाहिए, और, सिर्फ इसलिए कि यह पुस्तक ऑनलाइन है, ब्राउज़र एक अच्छा विकल्प है। हम ब्राउज़र-विशिष्ट commands की मात्रा रखेंगे (jase ki `alert`) यदि आप किसी अन्य environment जैसे Node.JS पर ध्यान केंद्रित करने की योजना बनाते हैं, तो न्यूनतम समय मैं उन पर समय व्यतीत न करें। दूसरी ओर, ब्राउज़र विवरण में विस्तार से बताया गया है [अगला भाग](/ui) ट्यूटोरियल का.
 
 
-So first, let's see how we attach a script to a webpage. For server-side environments (like Node.js), you can execute the script with a command like `"node my.js"`.
+तो पहले, हम देखते है कि script को कैसे वेबपेज के साथ जोड़ते हैं. Server-side वातावरण (like Node.js), पर Script चलाने के लिए आप यह कमांड चला सकते है। `"node my.js"`.
 
 
 ## The "script" tag
